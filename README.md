@@ -5,6 +5,8 @@
 
 This GitHub repository contains the code and configuration files for a data pipeline that ingests, processes, and analyzes fire incident data. The pipeline is implemented using various Azure services such as Azure Data Factory, Azure Data Lake, and Azure Databricks.
 
+![Dashboard Preview](https://drive.google.com/uc?export=view&id=1bnooflAagd6zdeL8aP59rddHcqxE5dEG)
+
 ## Key Components
 
 ### 1. Data Ingestion
