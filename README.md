@@ -30,6 +30,8 @@ This GitHub repository contains the code and configuration files for a data pipe
 - The preprocessed data is stored back in Azure Data Lake, serving as an intermediate storage layer.
 
 ### 5. Analysis
+The power Bi file : [download](https://drive.google.com/file/d/1NR1mmNl2RP1a5aR70uDWYJGjPBDofbks/view?usp=drive_link)
+
 ![data modle](https://drive.google.com/uc?export=view&id=1kYwcFfu614BkA3FsKLAkYR1RwsTD-4Kk)
 
 ![page1](https://drive.google.com/uc?export=view&id=1zfd7lvLWCq2s2iTg2ZnxgevYOS_l1ubB)
