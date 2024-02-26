@@ -1,0 +1,9 @@
+{
+	"name": "lokeshinstance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da556c5f-87cb-4f80-b62d-d6bfe8e89d88",
+		"tenantId": "f06af19c-82f1-4686-91a8-e7c1ac8a3159"
+	}
+}
