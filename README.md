@@ -5,7 +5,7 @@
 
 This GitHub repository contains the code and configuration files for a data pipeline that ingests, processes, and analyzes fire incident data. The pipeline is implemented using various Azure services such as Azure Data Factory, Azure Data Lake, and Azure Databricks.
 
-![Dashboard Preview](https://drive.google.com/uc?export=view&id=1bnooflAagd6zdeL8aP59rddHcqxE5dEG)
+![data architecture](https://drive.google.com/uc?export=view&id=1bnooflAagd6zdeL8aP59rddHcqxE5dEG)
 
 ## Key Components
 
@@ -13,6 +13,8 @@ This GitHub repository contains the code and configuration files for a data pipe
 
 - The fire incident data is ingested from an HTTP source link using Azure Data Factory.
 - The ingestion process is facilitated by the Copy Data Activity within Azure Data Factory.
+- 
+![azure data factory](https://drive.google.com/uc?export=view&id=1o24fKw_0pHQUEIz5BZy00-DMZgmqycCO)
 
 ### 2. Storage
 
@@ -28,6 +30,13 @@ This GitHub repository contains the code and configuration files for a data pipe
 - The preprocessed data is stored back in Azure Data Lake, serving as an intermediate storage layer.
 
 ### 5. Analysis
+![data modle](https://drive.google.com/uc?export=view&id=1kYwcFfu614BkA3FsKLAkYR1RwsTD-4Kk)
+
+![page1](https://drive.google.com/uc?export=view&id=1zfd7lvLWCq2s2iTg2ZnxgevYOS_l1ubB)
+![page 2](https://drive.google.com/uc?export=view&id=1-Bj3zsbdRhIY0xShRgodEM_yqRfvwBF8)
+![page 3](https://drive.google.com/uc?export=view&id=15eMu1qsQZX6UvdyBPLugEbG-gl4px0oJ)
+![page 4](https://drive.google.com/uc?export=view&id=1ogMXbhLB0BSEgXoE8yxra1CkiN6D1o6_)
+
 
 - Power BI is utilized for analyzing the preprocessed fire incident data stored in Azure Data Lake.
 - Power BI reports and dashboards can be created to derive insights and visualize trends in the data.
